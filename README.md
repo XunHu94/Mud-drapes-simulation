@@ -6,4 +6,4 @@ Some references about PgGAN and GANSim
 1. Karras, T., Aila, T., Laine, S., & Lehtinen, J. (2017). Progressive growing of GANs for improved quality, stability, and variation. ArXiv Preprint, arXiv: 1710.10196.
 2. Song, S., Mukerji, T., & Hou, J. (2021a). Geological facies modeling based on progressive growing of generative adversarial networks (GANs). Computational Geosciences, 25(3), 1251-1273. https://doi.org/10.1007/s10596-021-10059-w
 3. Song, S., Mukerji, T., & Hou, J. (2021b). GANSim: conditional facies simulation using an improved progressive growing of generative adversarial networks (GANs). Mathematical Geosciences, 53(7), 1413-1444. https://doi.org/10.1007/s11004-021-09934-0
-4. Song, S., Mukerji, T., & Hou, J. (2022a). Bridging the gap between geophysics and geology with generative adversarial networks. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-11. https://doi.org/10.1109/tgrs.2021.3066975
+4. Song, S., Mukerji, T., & Hou, J. (2022). Bridging the gap between geophysics and geology with generative adversarial networks. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-11. https://doi.org/10.1109/tgrs.2021.3066975
